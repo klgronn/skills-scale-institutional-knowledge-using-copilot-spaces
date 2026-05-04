@@ -38,3 +38,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Dependency register reviewed at weekly sync (see [Dependency Tracking Template](octoacme-dependency-tracking-template.md))
+- [ ] Significant decisions recorded in the decision log (see [Decision Log Template](octoacme-decision-log-template.md))
+- [ ] Meeting cadence running as agreed (see [Meeting Cadence Checklist](octoacme-meeting-cadence-checklist.md))

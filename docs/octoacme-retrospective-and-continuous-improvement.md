@@ -31,3 +31,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+## Related Templates
+- [Decision Log Template](octoacme-decision-log-template.md) — record retrospective decisions and any process changes adopted
+- [Meeting Cadence Checklist](octoacme-meeting-cadence-checklist.md) — ensure retrospectives are scheduled in the team cadence

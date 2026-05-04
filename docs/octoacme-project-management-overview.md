@@ -19,6 +19,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Tech Lead / Engineering Lead: sets technical direction and standards.
+- Scrum Master / Delivery Lead: facilitates agile ceremonies and removes impediments.
+- UX Designer / Researcher: champions user experience and validates designs.
+- Release Manager: coordinates releases, deployment, and rollback.
+- Customer Advocate / Support Liaison: represents the voice of the customer.
+- Security / Privacy Champion: ensures security and privacy requirements are met.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for full definitions.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -27,6 +35,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- RACI Matrix (see [RACI Ownership Mapping Template](octoacme-raci-template.md))
+- Decision Log (see [Decision Log Template](octoacme-decision-log-template.md))
+- Dependency Register (see [Dependency Tracking Template](octoacme-dependency-tracking-template.md))
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
