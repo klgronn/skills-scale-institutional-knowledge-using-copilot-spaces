@@ -40,3 +40,7 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## Related Templates
+- [Dependency Tracking Template](octoacme-dependency-tracking-template.md) — track cross-team and external dependencies alongside risks
+- [Decision Log Template](octoacme-decision-log-template.md) — record risk-related decisions and mitigations

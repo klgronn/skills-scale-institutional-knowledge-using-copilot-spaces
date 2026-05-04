@@ -20,7 +20,11 @@ This folder is the **structured knowledge source** for OctoAcme's program and pr
 | [Risks and Communication](octoacme-risks-and-communication.md) | Risk identification, scoring, mitigation, and escalation paths alongside communication templates. |
 | [Release and Deployment](octoacme-release-and-deployment.md) | Release readiness checklist, deployment steps, rollback plan, and post-release verification. |
 | [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective formats, action-item tracking, and the feedback loop that feeds improvements back into these docs. |
-| [Roles and Personas](octoacme-roles-and-personas.md) | Definitions of the roles used across all process docs — Developers, Product Managers, Project Managers, and more. |
+| [Roles and Personas](octoacme-roles-and-personas.md) | Definitions of the roles used across all process docs — Developers, Product Managers, Project Managers, Scrum Master, UX Designer, Release Manager, Customer Advocate, Tech Lead, and Security Champion. |
+| [RACI Ownership Mapping Template](octoacme-raci-template.md) | RACI matrix template for establishing clear ownership at project kickoff. |
+| [Decision Log Template](octoacme-decision-log-template.md) | Template for recording significant project decisions, context, alternatives, and owners. |
+| [Dependency Tracking Template](octoacme-dependency-tracking-template.md) | Register and tracking template for cross-team and external dependencies. |
+| [Meeting Cadence Checklist](octoacme-meeting-cadence-checklist.md) | Recommended recurring meetings, agendas, and setup checklist for a typical project. |
 
 ## Proposing Changes
 

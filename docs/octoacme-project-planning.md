@@ -41,3 +41,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] RACI reviewed and agreed with all stakeholders (see [RACI Ownership Mapping Template](octoacme-raci-template.md))
+- [ ] Dependencies identified and logged (see [Dependency Tracking Template](octoacme-dependency-tracking-template.md))
+- [ ] Decision log initialized for key planning decisions (see [Decision Log Template](octoacme-decision-log-template.md))

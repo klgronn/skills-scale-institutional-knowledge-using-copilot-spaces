@@ -35,6 +35,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] RACI completed and shared with all stakeholders (see [RACI Ownership Mapping Template](octoacme-raci-template.md))
+- [ ] Decision log created for the project (see [Decision Log Template](octoacme-decision-log-template.md))
+- [ ] Meeting cadence scheduled (see [Meeting Cadence Checklist](octoacme-meeting-cadence-checklist.md))
 
 ## Decision Gate
 Move to planning when:

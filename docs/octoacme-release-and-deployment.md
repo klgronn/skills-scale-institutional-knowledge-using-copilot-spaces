@@ -36,3 +36,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related Templates
+- [RACI Ownership Mapping Template](octoacme-raci-template.md) — confirm release roles and sign-off owners
+- [Dependency Tracking Template](octoacme-dependency-tracking-template.md) — verify all release dependencies are resolved
+- [Meeting Cadence Checklist](octoacme-meeting-cadence-checklist.md) — schedule the release readiness review
